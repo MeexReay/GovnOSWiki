@@ -1,5 +1,5 @@
 # GovnOSWiki
-Open and free GovnOS wiki
+Open GovnOS wiki
 
 Published on [govnos.meex.lol](https://govnos.meex.lol/)
 
