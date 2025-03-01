@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+/* Inline таблица стилей #1 | file:///C:/Users/meexr/source/GovnOSWiki/index.html */
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    width: 100%;
+    background: #344642;
+    justify-content: center;
+}
+
+.button {
+    font-size: 22px;
+    background: #1f312d;
+    transition: all 0.2s;
+    cursor: pointer;
+}
+
+.button:hover {
+    border-bottom: 3px solid #8dc4b6;
+    background: #455c57;
+}
+
+.button a {
+    text-decoration: none;
+    color: #fff;
+    font-family: monospace;
+    padding: 10px;
+    display: block;
+    padding-bottom: 10px;
+    transition: all 0.2s;
+}
+
+.button:hover a {
+    padding-bottom: 7px;
+}
+  
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.left-column {
+    width: 20%;
+}
+
+.text {
+    width: 60%;
+}
+
+.right-column {
+    width: 20%;
+}
+  
